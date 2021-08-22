@@ -1,2 +1,2 @@
-# sass-practice
+# SASS-practice
  Practicing SASS
