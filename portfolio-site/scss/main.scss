@@ -1,4 +1,4 @@
-@import "config", "home", "menu", "about";
+@import "config", "home", "menu", "about", "projects", "contact";
 
 body {
     background: $primary-color;
@@ -29,9 +29,6 @@ header {
     width: 100%;
     padding: 1rem;
 }
-// .menu-nav__item {
-//     display: inline-block;
-// }
 
 main {
     height: 100%;
